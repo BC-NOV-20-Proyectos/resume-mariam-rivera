@@ -7,19 +7,18 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Mariam Rivera Hernández # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
-
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: riverahmariam@gmail.com
+  phone: 314 128 10 66
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/mariam-rivera/
+  github: https://github.com/mariam-rivera
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: ''
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +26,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: German
-      level: Colloquial
+      level: Begginer
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,8 +49,12 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+    I'm a software engineer focused on frontend web
+    development. Looking for an opportunity to contribute my
+    professional knowledge at the right place and enhance my
+    skills for further growth and improvement in my
+    professional life.
+    
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Applied Scientist full-time at AWS
