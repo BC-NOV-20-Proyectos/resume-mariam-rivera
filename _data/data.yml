@@ -18,7 +18,7 @@ sidebar:
   github: https://github.com/mariam-rivera
   gitlab:
   bitbucket:
-  twitter: ''
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,50 +42,32 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Creativity
+      link: # dejar en blanco
+    
+    - item: Positive Attitude
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I'm a software engineer focused on frontend web
-    development. Looking for an opportunity to contribute my
-    professional knowledge at the right place and enhance my
-    skills for further growth and improvement in my
-    professional life.
-    
+      I'm a software engineer focused on frontend web
+      development. Looking for an opportunity to contribute my
+      professional knowledge at the right place and enhance my
+      skills for further growth and improvement in my
+      professional life.
+
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree:  Software Engineering
+    university: University of Colima
+    time: 2017 - 2021
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      The reason why I am majoring software engineering is
+      because I have a passion about technology, and I enjoy
+      learning its trends that is taking order to work more
+      efficiently and see success.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -125,23 +107,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: HTML5
+      level: 75%
 
-    - name: PyTorch
-      level: 40%
+    - name: CSS3
+      level: 50%
 
-    - name: Tensorflow
+    - name: Javascript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: Typescript
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: Angular
+      level: 50%
 
-    - name: C/C++
-      level: 40%
+    - name: Git & Github
+      level: 50%
+    
+    - name: React Native
+      level: 45%
 
 # NO MODIFICAR
 footer: >
