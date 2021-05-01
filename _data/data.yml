@@ -64,38 +64,38 @@ educationcomplete:
     university: University of Colima
     time: 2017 - 2021
     details: |
-      The reason why I am majoring software engineering is
+      The reason why I majored software engineering is
       because I have a passion about technology, and I enjoy
       learning its trends that is taking order to work more
       efficiently and see success.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Frontend Web Developer
+    time: 2019 - 2020
+    company: Public Security Secretary, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Working as a Frontend Web Developer, using friendly tools
+      such as Angular, Bootstrap, Git & GitHub, HTML5 & CSS3,
+      Linux so on. Some projects involved were:
+        - Development of a web platform for capturing and get
+          statistics about criminal incidents, which are occurring
+          in the state of Colima.
+        - Development of a web platform to support Human
+          Resources department about new applicants, active and
+          inactive personal inside the company.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: React Native Mobile Developer
+    time: 2020 - 2021
+    company: Bright Coders Academy, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I was an apprentice at Bright Coders Academy
+      participating in the React Native Bootcamp, where I
+      learned things about mobile development.
+        - Improving some soft and hard skills such as managing
+          version control system (Git & GitHub) in different teams
+          and projects (Teamwork and Communication), also
+          learning and using good practices.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -108,10 +108,10 @@ skills:
 
   toolset:
     - name: HTML5
-      level: 75%
+      level: 80%
 
     - name: CSS3
-      level: 50%
+      level: 80%
 
     - name: Javascript
       level: 60%
@@ -120,13 +120,13 @@ skills:
       level: 60%
 
     - name: Angular
-      level: 50%
+      level: 60%
 
     - name: Git & Github
-      level: 50%
+      level: 60%
     
     - name: React Native
-      level: 45%
+      level: 40%
 
 # NO MODIFICAR
 footer: >
