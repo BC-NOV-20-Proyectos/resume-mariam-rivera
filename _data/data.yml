@@ -71,12 +71,12 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Frontend Web Developer
+  - role: Jr. Angular Developer
     time: 2019 - 2020
     company: Public Security Secretary, Colima
     details: |
-      Working as a Frontend Web Developer, using friendly tools
-      such as Angular, Bootstrap, Git & GitHub, HTML5 & CSS3,
+      Working as a Jr. Angular Developer, using friendly tools
+      such as Angular, Bootstrap or Ngx Bootstrap, Angular Material, Git & GitHub, HTML5 & CSS3,
       Linux so on. Some projects involved were:
         - Development of a web platform for capturing and get
           statistics about criminal incidents, which are occurring
@@ -96,7 +96,7 @@ experiences:
           version control system (Git & GitHub) in different teams
           and projects (Teamwork and Communication), also
           learning and using good practices.
-
+          
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
